@@ -10,5 +10,6 @@ dependency-reduced-pom.xml
 
 # Eclipse m2e generated files
 # Eclipse Core
-.project
+.projects
+.contacts
 
